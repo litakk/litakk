@@ -1,6 +1,6 @@
 # 👨‍💻 Feruz Aliev
 
-Hi all! My name is Feruz, I'm studying to become a FullStack developer. I love creating short programming videos on my [Instagram](https://www.instagram.com/litakxaliev/).
+Hi all! My name is Feruz, I'm studying to become a FullStack developer. You can follow me on the platform - [Instagram](https://www.instagram.com/litakxaliev/).
 
 
 
