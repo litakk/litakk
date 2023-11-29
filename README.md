@@ -3,10 +3,6 @@
 Hi all! My name is Feruz, I'm studying to become a FullStack developer. I love creating short programming videos on my [Instagram](https://www.instagram.com/litakxaliev/).
 
 
-
-<H1>Languages and Tools</H1>
-<img src="https://img.shields.io/badge/Python-3454AB?style=for-the-badge&logo=python&logoColor=white" />
-
 <H1>Databases</H1>
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
