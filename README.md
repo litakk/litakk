@@ -9,7 +9,7 @@ Hi! My name is Feruz, I'm studying to become a FullStack developer. follow me [I
   <img src="https://img.shields.io/badge/SQLite-316192?style=for-the-badge&logo=sqlite&logoColor=white" />
 
 
-📞 Contacts
+📞 Contacts  
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/jesusxforever)
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/litakxaliev/)
 
