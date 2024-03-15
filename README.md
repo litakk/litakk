@@ -1,5 +1,8 @@
 # 👨‍💻 Feruz Aliev
 
+Dreams without goals are just dreams. 
+Мечты без целей – это всего лишь мечты.
+
 Hi all! My name is Feruz, I'm studying to become a FullStack developer. You can follow me on the platform - [Instagram](https://www.instagram.com/litakxaliev/).
 
 
