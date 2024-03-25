@@ -4,7 +4,7 @@ Dreams without goals are just dreams. <br/>
 
 
 
-Hi all! My name is Feruz, I'm studying to become a FullStack developer. You can follow me on the platform - [Instagram](https://www.instagram.com/litakxaliev/).
+Hi all! My name is Feruz, I'm studying to become a FullStack developer.
 
 
 
@@ -19,8 +19,6 @@ Hi all! My name is Feruz, I'm studying to become a FullStack developer. You can 
 
 ## 📞 Contacts
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/litakf)
-[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/litakxaliev/)
-
 
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=litakk&theme=onedark)](https://github.com/litakk/github-profile-trophy)
