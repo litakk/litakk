@@ -1,12 +1,6 @@
 Мечты без целей – это всего лишь мечты. <br/>
 Dreams without goals are just dreams. <br/>
-# 👨‍💻 Feruz Aliev
-
-
-
-Hi all! My name is Feruz, I'm studying to become a FullStack developer.
-
-
+# 👨‍💻 
 
 <H1>Languages and Tools</H1>
 <img src="https://img.shields.io/badge/Python-3454AB?style=for-the-badge&logo=python&logoColor=white" />
