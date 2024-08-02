@@ -10,13 +10,14 @@ Dreams without goals are just dreams. <br/>
   <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 <H1>Skills and Expertise</H1>
 <p>
   <img src="https://img.shields.io/badge/REST_API-42A5F5?style=for-the-badge&logo=api&logoColor=white" />
   <img src="https://img.shields.io/badge/Responsive_Design-00C853?style=for-the-badge&logo=design&logoColor=white" />
-  <img src="https://img.shields.io/badge/Version_Control-4A154B?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Expert-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ## 📞 Contacts
