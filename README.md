@@ -11,6 +11,7 @@ Dreams without goals are just dreams. <br/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </p>
 
 <H1>Skills and Expertise</H1>
@@ -23,9 +24,5 @@ Dreams without goals are just dreams. <br/>
 ## 📞 Contacts
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/litakf)
 
-## 📊 GitHub Stats
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=litakk&show_icons=true&theme=cobalt&hide_border=true" />
-
 ## ⭐ Pinned Repositories
 [![ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=litakk&repo=your-repo-name&theme=cobalt)](https://github.com/litakk/your-repo-name)
-
