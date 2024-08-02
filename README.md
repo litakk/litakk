@@ -28,11 +28,8 @@ Dreams without goals are just dreams. <br/>
 ## 🔥 GitHub Streak Stats
 [![GitHub Streak](https://streak-stats.demolab.com/?user=litakk&theme=dark&border_radius=5)](https://git.io/streak-stats)
 
-## 📊 GitHub Activity Graph
-[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=litakk&theme=react-dark)](https://github.com/litakk)
-
-## 🌍 Top Languages
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=litakk&layout=compact&theme=dark&hide_border=true" />
+## ⭐ Pinned Repositories
+[![ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=litakk&repo=your-repo-name&theme=cobalt)](https://github.com/litakk/your-repo-name)
 
 ## ⭐ Pinned Repositories
 [![ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=litakk&repo=your-repo-name&theme=cobalt)](https://github.com/litakk/portfolio)
