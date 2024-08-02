@@ -22,8 +22,5 @@ Dreams without goals are just dreams. <br/>
 ## 📞 Contacts
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/litakk/)
 
-## 🗂️ GitHub Contributions
-[![GitHub Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=litakk&theme=dracula)](https://github.com/litakk)
-
 ## 🌍 Top Languages
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=litakk&layout=compact&theme=dark&hide_border=true" />
