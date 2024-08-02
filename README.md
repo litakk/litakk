@@ -12,10 +12,11 @@ Dreams without goals are just dreams. <br/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 </p>
 
-<H1>Databases</H1>
+<H1>Skills and Expertise</H1>
 <p>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-42A5F5?style=for-the-badge&logo=api&logoColor=white" />
+  <img src="https://img.shields.io/badge/Responsive_Design-00C853?style=for-the-badge&logo=design&logoColor=white" />
+  <img src="https://img.shields.io/badge/Version_Control-4A154B?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ## 📞 Contacts
