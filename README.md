@@ -35,4 +35,4 @@ Dreams without goals are just dreams. <br/>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=litakk&layout=compact&theme=dark&hide_border=true" />
 
 ## ⭐ Pinned Repositories
-[![ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=litakk&repo=your-repo-name&theme=cobalt)](https://github.com/litakk/your-repo-name)
+[![ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=litakk&repo=your-repo-name&theme=cobalt)](https://github.com/litakk/portfolio)
