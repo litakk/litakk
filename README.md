@@ -22,14 +22,8 @@ Dreams without goals are just dreams. <br/>
 ## 📞 Contacts
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/litakf)
 
-## 📈 GitHub Metrics
-[![Metrics](https://metrics.lecoq.io/litakk?template=classic&languages=1&stars=1&activity=1&followup=1&achievements=1&lines=1&quality=1&achievements=1&themes=dark)](https://metrics.lecoq.io/litakk)
+## 📊 GitHub Stats Card
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=litakk&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=dark&hide_border=true)
 
-## 🔥 GitHub Streak Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=litakk&theme=dark&border_radius=5)](https://git.io/streak-stats)
-
-## ⭐ Pinned Repositories
-[![ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=litakk&repo=your-repo-name&theme=cobalt)](https://github.com/litakk/your-repo-name)
-
-## ⭐ Pinned Repositories
-[![ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=litakk&repo=your-repo-name&theme=cobalt)](https://github.com/litakk/portfolio)
+## 🌍 Top Languages
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=litakk&layout=compact&theme=dark&hide_border=true" />
