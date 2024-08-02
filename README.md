@@ -23,7 +23,9 @@ Dreams without goals are just dreams. <br/>
 ## 📞 Contacts
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/litakf)
 
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=litakk&theme=onedark)](https://github.com/litakk/github-profile-trophy)
+## 📊 GitHub Stats
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=litakk&show_icons=true&theme=cobalt&hide_border=true" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=litakk&layout=compact&theme=cobalt&hide_border=true" />
+## ⭐ Pinned Repositories
+[![ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=litakk&repo=your-repo-name&theme=cobalt)](https://github.com/litakk/your-repo-name)
+
