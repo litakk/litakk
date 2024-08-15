@@ -3,6 +3,8 @@
 Мечты без целей – это всего лишь мечты. <br/>
 Dreams without goals are just dreams. <br/>
 
+## 📄 [Access My Resume](https://docs.google.com/document/d/1v-TCmKmpc7S0uX6qz9FV0k3c0Dei15gSNlOvH0L1H6c/edit?usp=sharing)
+
 <H1>Languages and Tools</H1>
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
