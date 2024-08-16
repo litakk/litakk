@@ -1,7 +1,6 @@
 # 👨‍💻 Front End Developer
 
-Мечты без целей – это всего лишь мечты. <br/>
-Dreams without goals are just dreams. <br/>
+Dreams demand action.<br/>
 
 ## 📄 [Access My Resume](https://docs.google.com/document/d/1v-TCmKmpc7S0uX6qz9FV0k3c0Dei15gSNlOvH0L1H6c/edit?usp=sharing)
 
