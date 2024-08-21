@@ -1,4 +1,4 @@
-# 👨‍💻 Frontend Developer | React + Vite
+# 👨‍💻 Frontend Developer | React + Vite.
 
 Dreams demand action.<br/>
 
