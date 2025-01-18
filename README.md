@@ -1,5 +1,5 @@
 
-# 👨‍💻 Frontend | React + Vite.
+# 👨‍💻 Frontend | React
 
 Dreams demand action.<br/>
 
