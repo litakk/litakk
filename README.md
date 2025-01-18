@@ -3,6 +3,8 @@
 
 Dreams demand action.<br/>
 
+![GIF](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+
 ## 📄 [Access My Resume](https://docs.google.com/document/d/1v-TCmKmpc7S0uX6qz9FV0k3c0Dei15gSNlOvH0L1H6c/edit?usp=sharing)
 
 <H1>Languages and Tools</H1>
