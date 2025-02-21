@@ -1,5 +1,5 @@
 
-# 👨‍💻 Frontend | React
+# 👨‍💻 Frontend | 
 
 Dreams demand action.<br/>
 
