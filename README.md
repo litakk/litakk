@@ -1,5 +1,5 @@
 
-# 👨‍💻 Front-End | React + TypeScript
+# Front-End | React + TypeScript
 
 Dreams demand action.<br/>
 
