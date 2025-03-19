@@ -1,4 +1,4 @@
-# Front-End Developer | React & TypeScript
+# 𝗙𝗿𝗼𝗻𝘁-𝗘𝗻𝗱 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 | 𝗥𝗲𝗮𝗰𝘁 & 𝗧𝘆𝗽𝗲𝗦𝗰𝗿𝗶𝗽𝘁
 
 ## Resume
 [📄 View My Resume](https://docs.google.com/document/d/1v-TCmKmpc7S0uX6qz9FV0k3c0Dei15gSNlOvH0L1H6c/edit?usp=sharing)
