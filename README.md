@@ -1,8 +1,5 @@
 # Front-End Developer | React & TypeScript
 
-## About Me
-Passionate about building modern, scalable, and user-friendly web applications.
-
 ## Resume
 [📄 View My Resume](https://docs.google.com/document/d/1v-TCmKmpc7S0uX6qz9FV0k3c0Dei15gSNlOvH0L1H6c/edit?usp=sharing)
 
