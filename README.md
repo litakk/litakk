@@ -1,5 +1,5 @@
 # Front-End Developer  
-React · TypeScript · Next.js
+React · TypeScript · Next.js 
 
 ---
 
