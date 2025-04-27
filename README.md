@@ -10,7 +10,7 @@ React · TypeScript · Next.js
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Shadcn/UI](https://img.shields.io/badge/-Shadcn/UI-18181b?style=for-the-badge&logoColor=white)
-![Lucide](https://img.shields.io/badge/-Lucide-000000?style=for-the-badge&logoColor=white)
+![React Icons](https://img.shields.io/badge/-React%20Icons-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 
 ---
 
