@@ -11,13 +11,6 @@ React · TypeScript · Next.js
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Shadcn/UI](https://img.shields.io/badge/-Shadcn/UI-18181b?style=for-the-badge&logoColor=white)
 ![React Icons](https://img.shields.io/badge/-React%20Icons-61DAFB?style=for-the-badge&logo=react&logoColor=white)
- 
----
-
-### 📄 Resume  
-[Open Resume →](https://docs.google.com/document/d/1v-TCmKmpc7S0uX6qz9FV0k3c0Dei15gSNlOvH0L1H6c/edit?usp=sharing)
-
----
 
 ### 🌍 Contacts  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/litakk/)
