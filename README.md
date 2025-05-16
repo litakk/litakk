@@ -1,6 +1,6 @@
 # Front-End Developer  
 React · TypeScript · Next.js 
- 
+
 ---
  
 ### 🛠️ Tech Stack  
