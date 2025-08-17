@@ -18,6 +18,7 @@ React · TypeScript · Next.js
 
 ---
 
+
 ### 📈 Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=litakk&show_icons=true&count_private=true&hide=prs&theme=transparent)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=litakk&layout=compact&theme=transparent)
