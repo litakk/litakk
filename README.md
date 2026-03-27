@@ -50,7 +50,7 @@ Building scalable and performant web applications with modern stack.
 ![CI/CD](https://img.shields.io/badge/CI/CD-Vercel-000000?style=flat)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 
-### Backend (Learning)
+### Backend
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
 
 ---
@@ -61,8 +61,3 @@ Building scalable and performant web applications with modern stack.
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/litakk)
 
 ---
-
-## 📊 Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=litakk&show_icons=true&count_private=true&theme=transparent)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=litakk&layout=compact&theme=transparent)
